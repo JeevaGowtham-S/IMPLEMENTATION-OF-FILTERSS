@@ -1,4 +1,4 @@
-![image](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/bfbc2661-947d-4ae9-a0d3-a1d3010e69ed)# IMPLEMENTATION-OF-FILTERSS
+# IMPLEMENTATION-OF-FILTERSS
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
