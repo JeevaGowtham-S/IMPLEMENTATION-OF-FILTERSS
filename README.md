@@ -170,6 +170,7 @@ i) Using Averaging Filter:
 </br>
 
 ii) Using Weighted Averaging Filter:
+
 ![Screenshot 2023-09-09 160924](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/ce5c4ffb-0b0a-418a-8639-20ef22b423d0)
 
 
@@ -180,6 +181,7 @@ ii) Using Weighted Averaging Filter:
 </br>
 
 iii) Using Gaussian Filter:
+
 ![Screenshot 2023-09-09 161303](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/6e0d24b4-5b17-4236-bac3-19451daa461b)
 
 
@@ -190,6 +192,7 @@ iii) Using Gaussian Filter:
 </br>
 
 iv) Using Median Filter:
+
 ![Screenshot 2023-09-09 161357](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/3e86c2f5-9ebc-437d-a460-5dc67c9a2c7e)
 
 
@@ -204,6 +207,7 @@ iv) Using Median Filter:
 </br>
 
 i) Using Laplacian Kernal:
+
 ![Screenshot 2023-09-09 162046](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/660d2654-8a7c-4224-801b-2dc40c5eef8f)
 
 
@@ -214,6 +218,7 @@ i) Using Laplacian Kernal:
 </br>
 
 ii) Using Laplacian Operator:
+
 ![Screenshot 2023-09-09 162153](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/39697256-dd0a-4c81-a4c1-faa91d4583ea)
 
 
